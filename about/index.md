@@ -1,17 +1,17 @@
 ---
-title: 关于
+title: about
 layout: page
 comments: no
 
 ---
 
-攻城狮一头，目前从事Linux的相关运维。     
+BJUT.CS
 
-热爱Linux，开源爱好者，喜欢虚拟化，github等。            
+LiuYang
 
-电脑洁癖与性能癖。       
 
-偶尔微博，偶尔wow。  
+
+
 
 ---
 
