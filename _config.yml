@@ -1,13 +1,21 @@
 permalink: /:title/
+<<<<<<< HEAD
 url: http://xiaoqshou.Info
 name: xiaoqshou.Info
 author: Young
 qq: 43938831 
 email: xiaoqshou@gmail.com
 duoshuo: xiaoqshou
+=======
+url: http://xiaoqshou.com
+name: xiaoqshou.com
+author: AoGang
+qq: 43938831
+email: xiaoqshou@gmail.com
+duoshuo: 89ao
+>>>>>>> b54ed44416307575d0760832f5d7be5898d3401f
 #beian: 浙ICP备12026616号
 #cnzz: 119959
-weibo: 2067815867
 github: xiaoqshou
 pygments: true
 safe: true
