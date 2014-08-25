@@ -32,10 +32,7 @@ comments: no
 
 	ctrl+r
 在历史记录中搜索
-
-	echo "2:12 PM" | at 2:12 PM
-at命令
-
+echo "2:12 PM" | at 2:12 PM at命令 
 	ls -l > /dev/pts/4
 将命令结果输出到pts/4终端上。
 
