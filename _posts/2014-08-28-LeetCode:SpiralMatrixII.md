@@ -4,6 +4,7 @@ layout: post
 title: LeetCode:Spiral Matrix II
 categories: LeetCode
 tags: LeetCode
+comments: false
 ---
 
 Given an integer n, generate a square matrix filled with elements from 1 to n2 in spiral order.
