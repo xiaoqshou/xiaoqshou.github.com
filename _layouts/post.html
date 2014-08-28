@@ -33,10 +33,10 @@ layout: default
 	<a {% if page.previous %} href="{{ page.previous.url }}" class="pageNav"{% endif %} {% unless page.previous %} class="pageNavInvalid" {% endunless %} >上一篇</a>
 	&nbsp;&nbsp;&nbsp;
 	<a {% if page.next %} href="{{ page.next.url }}" class="pageNav"{% endif %} {% unless page.next %} class="pageNavInvalid" {% endunless %} >下一篇</a>
-</span>
-</section>
-{% include comments.md %}
-
+</span> </section>
+{% if page.comments %}                                                                                                                                                                                   
+   {% include comments.md %}
+ {% endif %}
 <script type="text/javascript">
 $(function(){
   $(document).keydown(function(e) {
