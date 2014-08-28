@@ -18,7 +18,7 @@ You should return the following matrix:
 
    [ 1, 2, 3 ],
 
- [ 4, 5, 6 ],
+ [ 8, 9, 4 ],
 
 [ 7, 6, 5 ]
 
