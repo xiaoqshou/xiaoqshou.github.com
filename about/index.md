@@ -24,7 +24,7 @@ LiuYang
 
 邮箱：[{{ site.email }}](mailto:{{ site.email }})
 
-简历：[http://github.com/{{site.github}/Resume_LIuYang]({{ site.url }}/staHtml/Resume_LiuYang.html)
+简历：[http://github.com/{{site.github}}/staHtml/Resume_LIuYang]({{ site.url }}/staHtml/Resume_LiuYang.html)
 
 
 
