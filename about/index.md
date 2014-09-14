@@ -24,6 +24,10 @@ LiuYang
 
 邮箱：[{{ site.email }}](mailto:{{ site.email }})
 
+简历：[http://github.com/{{site.github}/Resume_LIuYang](https://github.com/xiaoqshou/xiaoqshou.github.com/blob/master/staHtml/Resume_LiuYang.html)
+
+
+
 GitHub : [http://github.com/{{ site.github }}](http://github.com/{{ site.github }})
 
 ----
